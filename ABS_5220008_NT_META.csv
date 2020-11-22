@@ -1,0 +1,365 @@
+﻿Date,
+A2335789F,General government - National ;  Final consumption expenditure: Chain volume measures ;
+A2335790R,General government - State and local ;  Final consumption expenditure: Chain volume measures ;
+A2335791T,General government ;  Final consumption expenditure: Chain volume measures ;
+A2335792V,Households ;  Final consumption expenditure - Food: Chain volume measures ;
+A2335793W,Households ;  Final consumption expenditure - Alcoholic beverages and tobacco: Chain volume measures ;
+A2335794X,Households ;  Final consumption expenditure - Clothing and footwear: Chain volume measures ;
+A2335795A,Households ;  Final consumption expenditure - Rent and other dwelling services: Chain volume measures ;
+A2335796C,"Households ;  Final consumption expenditure - Electricity, gas and other fuel: Chain volume measures ;"
+A2335797F,Households ;  Final consumption expenditure - Furnishings and household equipment: Chain volume measures ;
+A2335798J,Households ;  Final consumption expenditure - Health: Chain volume measures ;
+A2335799K,Households ;  Final consumption expenditure - Transport: Chain volume measures ;
+A2335800J,Households ;  Final consumption expenditure - Communications: Chain volume measures ;
+A2335801K,Households ;  Final consumption expenditure - Recreation and culture: Chain volume measures ;
+A2335802L,Households ;  Final consumption expenditure - Education services: Chain volume measures ;
+A2335803R,"Households ;  Final consumption expenditure - Hotels, cafes and restaurants: Chain volume measures ;"
+A2335804T,Households ;  Final consumption expenditure - Miscellaneous goods and services: Chain volume measures ;
+A2335805V,Households ;  Final consumption expenditure - Net expenditure interstate: Chain volume measures ;
+A2335806W,Households ;  Final consumption expenditure: Chain volume measures ;
+A2335807X,All sectors ;  Final consumption expenditure: Chain volume measures ;
+A2335818F,Private ;  Gross fixed capital formation - Dwellings - Total: Chain volume measures ;
+A2335819J,Private ;  Gross fixed capital formation - Ownership transfer costs: Chain volume measures ;
+A2335811R,Private ;  Gross fixed capital formation - Non-dwelling construction - New building: Chain volume measures ;
+A2335812T,Private ;  Gross fixed capital formation - Non-dwelling construction - New engineering construction: Chain volume measures ;
+A2335813V,Private ;  Gross fixed capital formation - Non-dwelling construction - Net purchase of second hand assets: Chain volume measures ;
+A2335814W,Private ;  Gross fixed capital formation - Non-dwelling construction - Total: Chain volume measures ;
+A2335808A,Private ;  Gross fixed capital formation - Machinery and equipment - New: Chain volume measures ;
+A2335809C,Private ;  Gross fixed capital formation - Machinery and equipment - Net purchase of second hand assets: Chain volume measures ;
+A2335810L,Private ;  Gross fixed capital formation - Machinery and equipment - Total: Chain volume measures ;
+A2713889W,Private ;  Gross fixed capital formation - Cultivated biological resources: Chain volume measures ;
+A2713923R,Private ;  Gross fixed capital formation - Intellectual property products: Chain volume measures ;
+A2335817C,Private ;  Gross fixed capital formation - Total private business investment: Chain volume measures ;
+A2335820T,Private ;  Gross fixed capital formation: Chain volume measures ;
+A2335821V,Public corporations - Commonwealth ;  Gross fixed capital formation: Chain volume measures ;
+A2335822W,Public corporations - State and local ;  Gross fixed capital formation: Chain volume measures ;
+A2335823X,Public corporations ;  Gross fixed capital formation: Chain volume measures ;
+A2335539R,General government - National ;  Gross fixed capital formation: Chain volume measures ;
+A2335540X,General government - State and local ;  Gross fixed capital formation: Chain volume measures ;
+A2335541A,General government ;  Gross fixed capital formation: Chain volume measures ;
+A2335542C,Public ;  Gross fixed capital formation: Chain volume measures ;
+A2335543F,All sectors ;  Gross fixed capital formation: Chain volume measures ;
+A2335544J,All sectors ;  STATE FINAL DEMAND: Chain volume measures ;
+A2335545K,All sectors ;  International trade - exports of goods: Chain volume measures ;
+A2335546L,All sectors ;  International trade - imports of goods: Chain volume measures ;
+A2335547R,All sectors ;  International trade - exports of services: Chain volume measures ;
+A2335548T,All sectors ;  International trade - imports of services: Chain volume measures ;
+A2335549V,All sectors ;  Balancing item: Chain volume measures ;
+A2478773K,All sectors ;  Statistical discrepancy (E): Chain volume measures ;
+A2336352J,All sectors ;  GROSS STATE PRODUCT: Chain volume measures ;
+A2335550C,General government - National ;  Final consumption expenditure: Current prices ;
+A2335551F,General government - State and local ;  Final consumption expenditure: Current prices ;
+A2335552J,General government ;  Final consumption expenditure: Current prices ;
+A2335553K,Households ;  Final consumption expenditure - Food: Current prices ;
+A2335554L,Households ;  Final consumption expenditure - Alcoholic beverages and tobacco: Current prices ;
+A2335555R,Households ;  Final consumption expenditure - Clothing and footwear: Current prices ;
+A2335556T,Households ;  Final consumption expenditure - Rent and other dwelling services: Current prices ;
+A2335557V,"Households ;  Final consumption expenditure - Electricity, gas and other fuel: Current prices ;"
+A2335558W,Households ;  Final consumption expenditure - Furnishings and household equipment: Current prices ;
+A2335559X,Households ;  Final consumption expenditure - Health: Current prices ;
+A2335560J,Households ;  Final consumption expenditure - Transport: Current prices ;
+A2335561K,Households ;  Final consumption expenditure - Communications: Current prices ;
+A2335562L,Households ;  Final consumption expenditure - Recreation and culture: Current prices ;
+A2335563R,Households ;  Final consumption expenditure - Education services: Current prices ;
+A2335564T,"Households ;  Final consumption expenditure - Hotels, cafes and restaurants: Current prices ;"
+A2335565V,Households ;  Final consumption expenditure - Miscellaneous goods and services: Current prices ;
+A2335566W,Households ;  Final consumption expenditure - Net expenditure interstate: Current prices ;
+A2335567X,Households ;  Final consumption expenditure: Current prices ;
+A2335568A,All sectors ;  Final consumption expenditure: Current prices ;
+A2335579J,Private ;  Gross fixed capital formation - Dwellings - Total: Current prices ;
+A2335580T,Private ;  Gross fixed capital formation - Ownership transfer costs: Current prices ;
+A2335572T,Private ;  Gross fixed capital formation - Non-dwelling construction - New building: Current prices ;
+A2335573V,Private ;  Gross fixed capital formation - Non-dwelling construction - New engineering construction: Current prices ;
+A2335574W,Private ;  Gross fixed capital formation - Non-dwelling construction - Net purchase of second hand assets: Current prices ;
+A2335575X,Private ;  Gross fixed capital formation - Non-dwelling construction - Total: Current prices ;
+A2335569C,Private ;  Gross fixed capital formation - Machinery and equipment - New: Current prices ;
+A2335570L,Private ;  Gross fixed capital formation - Machinery and equipment - Net purchase of second hand assets: Current prices ;
+A2335571R,Private ;  Gross fixed capital formation - Machinery and equipment - Total: Current prices ;
+A2713884K,Private ;  Gross fixed capital formation - Cultivated biological resources: Current prices ;
+A2713918W,Private ;  Gross fixed capital formation - Intellectual property products: Current prices ;
+A2335578F,Private ;  Gross fixed capital formation - Total private business investment: Current prices ;
+A2335581V,Private ;  Gross fixed capital formation: Current prices ;
+A2335582W,Public corporations - Commonwealth ;  Gross fixed capital formation: Current prices ;
+A2335583X,Public corporations - State and local ;  Gross fixed capital formation: Current prices ;
+A2335584A,Public corporations ;  Gross fixed capital formation: Current prices ;
+A2335585C,General government - National ;  Gross fixed capital formation: Current prices ;
+A2335586F,General government - State and local ;  Gross fixed capital formation: Current prices ;
+A2335587J,General government ;  Gross fixed capital formation: Current prices ;
+A2335588K,Public ;  Gross fixed capital formation: Current prices ;
+A2335589L,All sectors ;  Gross fixed capital formation: Current prices ;
+A2335590W,All sectors ;  STATE FINAL DEMAND: Current prices ;
+A2335591X,All sectors ;  International trade - exports of goods: Current prices ;
+A2335592A,All sectors ;  International trade - imports of goods: Current prices ;
+A2335593C,All sectors ;  International trade - exports of services: Current prices ;
+A2335594F,All sectors ;  International trade - imports of services: Current prices ;
+A2335595J,All sectors ;  Balancing item: Current prices ;
+A2478774L,All sectors ;  Statistical discrepancy (E): Current prices ;
+A2336326C,All sectors ;  GROSS STATE PRODUCT: Current prices ;
+A2714700X,"Agriculture, forestry and fishing (A) ;  Total compensation of employees: Current prices ;"
+A2714701A,"Agriculture, forestry and fishing (A) ;  Gross operating surplus and gross mixed income: Current prices ;"
+A2714702C,"Agriculture, forestry and fishing (A) ;  Total factor income: Current prices ;"
+A2714704J,Mining (B) ;  Total compensation of employees: Current prices ;
+A2714705K,Mining (B) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714706L,Mining (B) ;  Total factor income: Current prices ;
+A2714708T,Manufacturing (C) ;  Total compensation of employees: Current prices ;
+A2714709V,Manufacturing (C) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714710C,Manufacturing (C) ;  Total factor income: Current prices ;
+A2714712J,"Electricity, gas, water and waste services (D) ;  Total compensation of employees: Current prices ;"
+A2714713K,"Electricity, gas, water and waste services (D) ;  Gross operating surplus and gross mixed income: Current prices ;"
+A2714714L,"Electricity, gas, water and waste services (D) ;  Total factor income: Current prices ;"
+A2714716T,Construction (E) ;  Total compensation of employees: Current prices ;
+A2714717V,Construction (E) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714718W,Construction (E) ;  Total factor income: Current prices ;
+A2714720J,Wholesale trade (F) ;  Total compensation of employees: Current prices ;
+A2714721K,Wholesale trade (F) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714722L,Wholesale trade (F) ;  Total factor income: Current prices ;
+A2714724T,Retail trade (G) ;  Total compensation of employees: Current prices ;
+A2714725V,Retail trade (G) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714726W,Retail trade (G) ;  Total factor income: Current prices ;
+A2714728A,Accommodation and food services (H) ;  Total compensation of employees: Current prices ;
+A2714729C,Accommodation and food services (H) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714730L,Accommodation and food services (H) ;  Total factor income: Current prices ;
+A2714732T,"Transport, postal and warehousing (I) ;  Total compensation of employees: Current prices ;"
+A2714733V,"Transport, postal and warehousing (I) ;  Gross operating surplus and gross mixed income: Current prices ;"
+A2714734W,"Transport, postal and warehousing (I) ;  Total factor income: Current prices ;"
+A2714736A,Information media and telecommunications (J) ;  Total compensation of employees: Current prices ;
+A2714737C,Information media and telecommunications (J) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714738F,Information media and telecommunications (J) ;  Total factor income: Current prices ;
+A2714740T,Financial and insurance services (K) ;  Total compensation of employees: Current prices ;
+A2714741V,Financial and insurance services (K) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714742W,Financial and insurance services (K) ;  Total factor income: Current prices ;
+A2714744A,"Rental, hiring and real estate services (L) ;  Total compensation of employees: Current prices ;"
+A2714745C,"Rental, hiring and real estate services (L) ;  Gross operating surplus and gross mixed income: Current prices ;"
+A2714746F,"Rental, hiring and real estate services (L) ;  Total factor income: Current prices ;"
+A2714748K,"Professional, scientific and technical services (M) ;  Total compensation of employees: Current prices ;"
+A2714749L,"Professional, scientific and technical services (M) ;  Gross operating surplus and gross mixed income: Current prices ;"
+A2714750W,"Professional, scientific and technical services (M) ;  Total factor income: Current prices ;"
+A2714752A,Administrative and support services (N) ;  Total compensation of employees: Current prices ;
+A2714753C,Administrative and support services (N) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714754F,Administrative and support services (N) ;  Total factor income: Current prices ;
+A2714756K,Public administration and safety (O) ;  Total compensation of employees: Current prices ;
+A2714757L,Public administration and safety (O) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714758R,Public administration and safety (O) ;  Total factor income: Current prices ;
+A2714760A,Education and training (P) ;  Total compensation of employees: Current prices ;
+A2714761C,Education and training (P) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714762F,Education and training (P) ;  Total factor income: Current prices ;
+A2714764K,Health care and social assistance (Q) ;  Total compensation of employees: Current prices ;
+A2714765L,Health care and social assistance (Q) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714766R,Health care and social assistance (Q) ;  Total factor income: Current prices ;
+A2714768V,Arts and recreation services (R) ;  Total compensation of employees: Current prices ;
+A2714769W,Arts and recreation services (R) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714770F,Arts and recreation services (R) ;  Total factor income: Current prices ;
+A2714772K,Other services (S) ;  Total compensation of employees: Current prices ;
+A2714773L,Other services (S) ;  Gross operating surplus and gross mixed income: Current prices ;
+A2714774R,Other services (S) ;  Total factor income: Current prices ;
+A2334907R,Ownership of dwellings ;  Gross operating surplus and gross mixed income: Current prices ;
+A2335521T,Total all industries ;  Total compensation of employees: Current prices ;
+A2334909V,Total all industries ;  Gross operating surplus and gross mixed income: Current prices ;
+A2335524X,Total all industries ;  Total factor income: Current prices ;
+A2335525A,Total all industries ;  Taxes less subsidies on production and imports: Current prices ;
+A2335526C,Total all industries ;  Statistical discrepancy (I): Current prices ;
+A83748449R,Total all industries ;  GROSS STATE PRODUCT: Current prices ;
+A2334445J,General government ;  Final consumption expenditure: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334446K,Households ;  Final consumption expenditure: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334447L,All sectors ;  Final consumption expenditure: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334453J,Private ;  Gross fixed capital formation - Dwellings - Total: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334454K,Private ;  Gross fixed capital formation - Ownership transfer costs: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334449T,Private ;  Gross fixed capital formation - Non-dwelling construction - Total: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334448R,Private ;  Gross fixed capital formation - Machinery and equipment - Total: Chain Volume Measures - Revisions to Percentage Changes ;
+A2713872A,Private ;  Gross fixed capital formation - Cultivated biological resources: Chain Volume Measures - Revisions to Percentage Changes ;
+A2713906L,Private ;  Gross fixed capital formation - Intellectual property products: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334452F,Private ;  Gross fixed capital formation - Total private business investment: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334455L,Private ;  Gross fixed capital formation: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334456R,Public corporations ;  Gross fixed capital formation: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334457T,General government ;  Gross fixed capital formation: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334458V,Public ;  Gross fixed capital formation: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334459W,All sectors ;  Gross fixed capital formation: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334460F,All sectors ;  STATE FINAL DEMAND: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334461J,All sectors ;  International trade - exports of goods: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334462K,All sectors ;  International trade - imports of goods: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334463L,All sectors ;  International trade - exports of services: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334168W,All sectors ;  International trade - imports of services: Chain Volume Measures - Revisions to Percentage Changes ;
+A2334169X,All sectors ;  GROSS STATE PRODUCT: Chain Volume Measures - Revisions to Percentage Changes ;
+A2715358W,"Agriculture, forestry and fishing (A) ;  Total factor income: Current Prices - Revisions ;"
+A2715359X,Mining (B) ;  Total factor income: Current Prices - Revisions ;
+A2715360J,Manufacturing (C) ;  Total factor income: Current Prices - Revisions ;
+A2715361K,"Electricity, gas, water and waste services (D) ;  Total factor income: Current Prices - Revisions ;"
+A2715362L,Construction (E) ;  Total factor income: Current Prices - Revisions ;
+A2715363R,Wholesale trade (F) ;  Total factor income: Current Prices - Revisions ;
+A2715364T,Retail trade (G) ;  Total factor income: Current Prices - Revisions ;
+A2715365V,Accommodation and food services (H) ;  Total factor income: Current Prices - Revisions ;
+A2715366W,"Transport, postal and warehousing (I) ;  Total factor income: Current Prices - Revisions ;"
+A2715367X,Information media and telecommunications (J) ;  Total factor income: Current Prices - Revisions ;
+A2715368A,Financial and insurance services (K) ;  Total factor income: Current Prices - Revisions ;
+A2715369C,"Rental, hiring and real estate services (L) ;  Total factor income: Current Prices - Revisions ;"
+A2715370L,"Professional, scientific and technical services (M) ;  Total factor income: Current Prices - Revisions ;"
+A2715371R,Administrative and support services (N) ;  Total factor income: Current Prices - Revisions ;
+A2715372T,Public administration and safety (O) ;  Total factor income: Current Prices - Revisions ;
+A2715373V,Education and training (P) ;  Total factor income: Current Prices - Revisions ;
+A2715374W,Health care and social assistance (Q) ;  Total factor income: Current Prices - Revisions ;
+A2715375X,Arts and recreation services (R) ;  Total factor income: Current Prices - Revisions ;
+A2715376A,Other services (S) ;  Total factor income: Current Prices - Revisions ;
+A2334008K,Ownership of dwellings ;  Gross operating surplus and gross mixed income: Current Prices - Revisions ;
+A2334010W,Total all industries ;  Total factor income: Current Prices - Revisions ;
+A2715132F,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Chain volume measures ;"
+A2715133J,Mining (B) ;  Industry gross value added: Chain volume measures ;
+A2715134K,Manufacturing (C) ;  Industry gross value added: Chain volume measures ;
+A2715135L,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Chain volume measures ;"
+A2715136R,Construction (E) ;  Industry gross value added: Chain volume measures ;
+A2715137T,Wholesale trade (F) ;  Industry gross value added: Chain volume measures ;
+A2715138V,Retail trade (G) ;  Industry gross value added: Chain volume measures ;
+A2715139W,Accommodation and food services (H) ;  Industry gross value added: Chain volume measures ;
+A2715140F,"Transport, postal and warehousing (I) ;  Industry gross value added: Chain volume measures ;"
+A2715141J,Information media and telecommunications (J) ;  Industry gross value added: Chain volume measures ;
+A2715142K,Financial and insurance services (K) ;  Industry gross value added: Chain volume measures ;
+A2715143L,"Rental, hiring and real estate services (L) ;  Industry gross value added: Chain volume measures ;"
+A2715144R,"Professional, scientific and technical services (M) ;  Industry gross value added: Chain volume measures ;"
+A2715145T,Administrative and support services (N) ;  Industry gross value added: Chain volume measures ;
+A2715146V,Public administration and safety (O) ;  Industry gross value added: Chain volume measures ;
+A2715147W,Education and training (P) ;  Industry gross value added: Chain volume measures ;
+A2715148X,Health care and social assistance (Q) ;  Industry gross value added: Chain volume measures ;
+A2715149A,Arts and recreation services (R) ;  Industry gross value added: Chain volume measures ;
+A2715150K,Other services (S) ;  Industry gross value added: Chain volume measures ;
+A2529259C,Ownership of dwellings ;  Industry gross value added: Chain volume measures ;
+A2477908R,Total all industries ;  Industry gross value added: Chain volume measures ;
+A2477909T,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Chain volume measures ;
+A2477910A,Total all industries ;  Industry gross value added - Statistical Discrepancy (P): Chain volume measures ;
+A2477911C,Total all industries ;  Gross state product: Chain volume measures ;
+A2715027C,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Chain volume measures - Percentage changes ;"
+A2715028F,Mining (B) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715029J,Manufacturing (C) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715030T,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Chain volume measures - Percentage changes ;"
+A2715031V,Construction (E) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715032W,Wholesale trade (F) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715033X,Retail trade (G) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715034A,Accommodation and food services (H) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715035C,"Transport, postal and warehousing (I) ;  Industry gross value added: Chain volume measures - Percentage changes ;"
+A2715036F,Information media and telecommunications (J) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2715037J,Financial and insurance services (K) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714141R,"Rental, hiring and real estate services (L) ;  Industry gross value added: Chain volume measures - Percentage changes ;"
+A2714142T,"Professional, scientific and technical services (M) ;  Industry gross value added: Chain volume measures - Percentage changes ;"
+A2714143V,Administrative and support services (N) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714144W,Public administration and safety (O) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714145X,Education and training (P) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714146A,Health care and social assistance (Q) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714147C,Arts and recreation services (R) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2714148F,Other services (S) ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2529260L,Ownership of dwellings ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2477930K,Total all industries ;  Industry gross value added: Chain volume measures - Percentage changes ;
+A2477931L,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Chain volume measures - Percentage changes ;
+A2477932R,Total all industries ;  Gross state product: Chain volume measures - Percentage changes ;
+A2715700T,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;"
+A2715701V,Mining (B) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715702W,Manufacturing (C) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715703X,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;"
+A2715704A,Construction (E) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715705C,Wholesale trade (F) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715706F,Retail trade (G) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715707J,Accommodation and food services (H) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715708K,"Transport, postal and warehousing (I) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;"
+A2715709L,Information media and telecommunications (J) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715710W,Financial and insurance services (K) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715711X,"Rental, hiring and real estate services (L) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;"
+A2715712A,"Professional, scientific and technical services (M) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;"
+A2715713C,Administrative and support services (N) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715714F,Public administration and safety (O) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715715J,Education and training (P) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715716K,Health care and social assistance (Q) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715717L,Arts and recreation services (R) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2715718R,Other services (S) ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2529261R,Ownership of dwellings ;  Industry gross value added: Contributions to Growth  - Chain volume measures ;
+A2477951W,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Contributions to Growth  - Chain volume measures ;
+A2477952X,Total all industries ;  Industry gross value added - Statistical Discrepancy (P): Contributions to Growth  - Chain volume measures ;
+A2477953A,Total all industries ;  Gross state product: Contributions to Growth  - Chain volume measures ;
+A2714703F,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Current prices ;"
+A2714707R,Mining (B) ;  Industry gross value added: Current prices ;
+A2714711F,Manufacturing (C) ;  Industry gross value added: Current prices ;
+A2714715R,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Current prices ;"
+A2714719X,Construction (E) ;  Industry gross value added: Current prices ;
+A2714723R,Wholesale trade (F) ;  Industry gross value added: Current prices ;
+A2714727X,Retail trade (G) ;  Industry gross value added: Current prices ;
+A2714731R,Accommodation and food services (H) ;  Industry gross value added: Current prices ;
+A2714735X,"Transport, postal and warehousing (I) ;  Industry gross value added: Current prices ;"
+A2714739J,Information media and telecommunications (J) ;  Industry gross value added: Current prices ;
+A2714743X,Financial and insurance services (K) ;  Industry gross value added: Current prices ;
+A2714747J,"Rental, hiring and real estate services (L) ;  Industry gross value added: Current prices ;"
+A2714751X,"Professional, scientific and technical services (M) ;  Industry gross value added: Current prices ;"
+A2714755J,Administrative and support services (N) ;  Industry gross value added: Current prices ;
+A2714759T,Public administration and safety (O) ;  Industry gross value added: Current prices ;
+A2714763J,Education and training (P) ;  Industry gross value added: Current prices ;
+A2714767T,Health care and social assistance (Q) ;  Industry gross value added: Current prices ;
+A2714771J,Arts and recreation services (R) ;  Industry gross value added: Current prices ;
+A2714775T,Other services (S) ;  Industry gross value added: Current prices ;
+A2529294K,Ownership of dwellings ;  Industry gross value added: Current prices ;
+A2478479W,Total all industries ;  Industry gross value added: Current prices ;
+A2478480F,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Current prices ;
+A2478481J,Total all industries ;  Industry gross value added - Statistical Discrepancy (P): Current prices ;
+A2478482K,Total all industries ;  Gross state product: Current prices ;
+A2714067C,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Current prices - Percentage Changes ;"
+A2714068F,Mining (B) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714069J,Manufacturing (C) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714070T,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Current prices - Percentage Changes ;"
+A2714071V,Construction (E) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714072W,Wholesale trade (F) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714073X,Retail trade (G) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714074A,Accommodation and food services (H) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714075C,"Transport, postal and warehousing (I) ;  Industry gross value added: Current prices - Percentage Changes ;"
+A2714076F,Information media and telecommunications (J) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714077J,Financial and insurance services (K) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714078K,"Rental, hiring and real estate services (L) ;  Industry gross value added: Current prices - Percentage Changes ;"
+A2714079L,"Professional, scientific and technical services (M) ;  Industry gross value added: Current prices - Percentage Changes ;"
+A2714080W,Administrative and support services (N) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714081X,Public administration and safety (O) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714082A,Education and training (P) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714083C,Health care and social assistance (Q) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714084F,Arts and recreation services (R) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2714085J,Other services (S) ;  Industry gross value added: Current prices - Percentage Changes ;
+A2529295L,Ownership of dwellings ;  Industry gross value added: Current prices - Percentage Changes ;
+A2478501F,Total all industries ;  Industry gross value added: Current prices - Percentage Changes ;
+A2478502J,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Current prices - Percentage Changes ;
+A2478503K,Total all industries ;  Gross state product: Current prices - Percentage Changes ;
+A2715888F,"Agriculture, forestry and fishing (A) ;  Industry gross value added - Share of Australia: Ratio ;"
+A2715889J,Mining (B) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715890T,Manufacturing (C) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715891V,"Electricity, gas, water and waste services (D) ;  Industry gross value added - Share of Australia: Ratio ;"
+A2715892W,Construction (E) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715893X,Wholesale trade (F) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715894A,Retail trade (G) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715895C,Accommodation and food services (H) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715896F,"Transport, postal and warehousing (I) ;  Industry gross value added - Share of Australia: Ratio ;"
+A2715897J,Information media and telecommunications (J) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715898K,Financial and insurance services (K) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715899L,"Rental, hiring and real estate services (L) ;  Industry gross value added - Share of Australia: Ratio ;"
+A2715900K,"Professional, scientific and technical services (M) ;  Industry gross value added - Share of Australia: Ratio ;"
+A2715901L,Administrative and support services (N) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715902R,Public administration and safety (O) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715903T,Education and training (P) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715904V,Health care and social assistance (Q) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715945R,Arts and recreation services (R) ;  Industry gross value added - Share of Australia: Ratio ;
+A2715954T,Other services (S) ;  Industry gross value added - Share of Australia: Ratio ;
+A2529296R,Ownership of dwellings ;  Industry gross value added - Share of Australia: Ratio ;
+A2478523V,Total all industries ;  Industry gross value added - Share - Taxes less subsidies on products: Ratio ;
+A2478525X,Total all industries ;  Industry gross value added - Share - Gross state product: Ratio ;
+A2714856V,"Agriculture, forestry and fishing (A) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;"
+A2714857W,Mining (B) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714858X,Manufacturing (C) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714859A,"Electricity, gas, water and waste services (D) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;"
+A2714860K,Construction (E) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714861L,Wholesale trade (F) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714862R,Retail trade (G) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714863T,Accommodation and food services (H) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714864V,"Transport, postal and warehousing (I) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;"
+A2714865W,Information media and telecommunications (J) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714866X,Financial and insurance services (K) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714867A,"Rental, hiring and real estate services (L) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;"
+A2714868C,"Professional, scientific and technical services (M) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;"
+A2714869F,Administrative and support services (N) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714870R,Public administration and safety (O) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714871T,Education and training (P) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714872V,Health care and social assistance (Q) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714873W,Arts and recreation services (R) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2714874X,Other services (S) ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2529274A,Ownership of dwellings ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2528480W,Total all industries ;  Industry gross value added: Chain Volume Measures - Revisions to Percentage Changes ;
+A2528481X,Total all industries ;  Industry gross value added - Taxes less subsidies on products: Chain Volume Measures - Revisions to Percentage Changes ;
+A2528482A,Total all industries ;  Gross state product: Chain Volume Measures - Revisions to Percentage Changes ;

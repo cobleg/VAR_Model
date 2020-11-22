@@ -1,2 +1,1 @@
-# VAR_Model
-VAR model for estimating the relationships between different industries.
+An exploration of economic inter-dependencies between industries and States of Australia

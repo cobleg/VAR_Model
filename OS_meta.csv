@@ -1,0 +1,7 @@
+﻿Variable,Description,Source
+CHNLORSGPNOSTSAM,Leading Indicators OECD: Reference series: Gross Domestic Product (GDP): Normalised for China,https://fred.stlouisfed.org/series/CHNLORSGPNOSTSAM
+CHNPRINTO01IXPYM,Production: Industry: Total industry: Total industry excluding construction for China,https://fred.stlouisfed.org/series/CHNPRINTO01IXPYM
+GDPC1,Real Gross Domestic Product (USA),https://fred.stlouisfed.org/series/GDPC1
+INDPRO,Industrial Production Index (USA),https://fred.stlouisfed.org/series/INDPRO
+PRENEL01CNQ656N,Total Electricity Production for China,https://fred.stlouisfed.org/series/PRENEL01CNQ656N
+RGDPNACNA666NRUG,Real GDP at Constant National Prices for China,https://fred.stlouisfed.org/series/RGDPNACNA666NRUG
